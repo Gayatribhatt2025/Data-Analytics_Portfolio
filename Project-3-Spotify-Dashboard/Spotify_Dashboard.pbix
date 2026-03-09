@@ -1,0 +1,39 @@
+# Spotify Music Dashboard
+
+## 📊 Project Overview
+Interactive Power BI dashboard analyzing Spotify music data to understand streaming patterns, artist performance, and music trends.
+
+**Tools:** Power BI, Data Analysis
+
+## 🎯 What I Did
+- Created interactive Power BI dashboard from Spotify data
+- Analyzed streaming patterns and music trends
+- Visualized artist performance metrics
+- Built interactive slicers for filtering data
+- Identified top songs and artists
+
+## 📈 Key Insights
+1. **Top Artists:** Identified most streamed artists
+2. **Genre Trends:** Analyzed popular music genres
+3. **Streaming Patterns:** Discovered peak listening times
+4. **Performance Metrics:** Tracked song performance indicators
+
+## 🛠️ Skills Demonstrated
+✅ Power BI Dashboard Design  
+✅ Data Visualization  
+✅ Interactive Dashboard Creation  
+✅ Music Data Analysis  
+✅ Business Intelligence  
+
+## 📁 Project Files
+- `Spotify_Dashboard.pbix` - Interactive Power BI dashboard
+
+## 📚 Tools Used
+- **Power BI** - Dashboard creation and visualization
+- **Data Analysis** - Pattern recognition and insights
+
+## 💡 How to Use
+1. Open `Spotify_Dashboard.pbix` in Power BI Desktop
+2. Explore interactive visualizations
+3. Use slicers to filter data by different dimensions
+4. View insights and metrics
